@@ -1,9 +1,14 @@
 # Python-Machine-Learning
 >This is a note which studying Machine Learning with python, you could learn it with me if you want.
 >　Welcome to contact me by send a mail or issues ~
+
+>Here are the last note,if you would like to study with me, you could edit it right now !
+https://hackmd.io/32QsBboWRAyGFmH4ah1NHw?both
+
 # AI學習筆記
 > [常見名詞觀念釐清](https://www.zhihu.com/question/57770020)
-![](https://i.imgur.com/EOiLBrj.jpg)
+
+> ![](https://i.imgur.com/EOiLBrj.jpg)
 
 ## 人工智能的範疇
 ![](https://pic1.zhimg.com/80/v2-e358e127afbe5963f5b8622e2dd5b49f_hd.jpg)
@@ -69,3 +74,19 @@
     >Science is NOT a battle, it is a collaboration. We all build on each other's ideas. Science is an act of love, not war. Love for the beauty in the world that surrounds us and love to share and build something together. That makes science a highly satisfying activity, emotionally speaking!
     >
     >這段話的大致意思是，科學不是戰爭而是合作，任何學科的發展從來都不是一條路走到黑，而是同行之間互相學習，互相借鑒，博採眾長，相得益彰，站在巨人的肩膀上不斷前行。機器學習的研究也是一樣，你死我活那是邪教，開放包容才是正道。
+    
+    
+## 參考資料來源與出處：
+ 
+[人工智能、机器学习和深度学习的区别？　作者：育心。](https://www.zhihu.com/question/57770020/answer/249708509)
+
+[附資源與完整指導！帶你從零開始掌握 Python 機器學習
+](https://buzzorange.com/techorange/2017/08/18/learn-machine-learning-and-python-in-14-steps/)
+
+[深度學習 Deep Learning：中文學習資源整理](https://jerrynest.io/deep-learning-resource/ "深度學習 Deep Learning：中文學習資源整理")
+
+[Machine Learning: Python 機器學習：使用Python
+](https://machine-learning-python.kspax.io/Classification/ex5_Linear_and_Quadratic_Discriminant_Analysis_with_confidence_ellipsoid.html)
+
+[Machine Learning: Python 機器學習：使用Python
+](https://www.gitbook.com/book/htygithub/machine-learning-python/details)
